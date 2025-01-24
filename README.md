@@ -1,6 +1,6 @@
 Windows Service Bouncer (AKA OB Bouncer / Service Bouncer) is a simple utility designed to allow the user to target multiple Windows Services for repeated "Stop" and "Start" commands. 
 
-This was created to assist developers and admins who often must restart services and/or sites to do iterative testing or troubleshooting. Instead of targeting each service individually, users can target multiple services and leave them selected for repeat "Stop" or "Start" commands, simplifying and expeding an otherwise tedious part of the process.
+This was created to assist developers and admins who often must restart services and/or sites to do iterative testing or troubleshooting. Instead of targeting each service individually, users can target multiple services and leave them selected for repeat "Stop" or "Start" commands, simplifying and expediting an otherwise tedious part of the process.
 
 **SUPPORT**
 
